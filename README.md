@@ -9,7 +9,7 @@
 **Mata Kuliah**: Pemrograman Perangkat Bergerak
 **Dosen Pengampu**: 1. Fajar Winata S.Kom., M.T.
                     2. Rizky Kharisma N. E. P. S.Tr.Kom., M.T.
-**Link GitHub**: 
+**Link GitHub**:https://github.com/IkiRahman/UTS-PPB_Rizki-Abd.-Rahman_230102118 
 **Email**: ikirahman152@gmail.com
 
 ---
